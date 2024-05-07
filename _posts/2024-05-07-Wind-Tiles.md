@@ -15,7 +15,7 @@ this for example was not always like that. This line can change the noise which 
 
 [Here's my Wind Tiles experiment using Vera Molnar's method](/my-blog/Code-Experiments/Wind-tiles/index.html)
 
-<img src="/my-blog/Images/Wind-test.png" width="200px">
+<img src="/my-blog/Images/Wind-test.png" width ="200" text-align="center">
 
 ## Chicken Scratches
 
@@ -23,3 +23,4 @@ I created another piece of work using the tiles method.
 Similar to the other work shown above, I changed it from being ellipsis to being triangles that accidentally turned into lines. 
 I have since looked at the code and I know why the triangles did not turn out as expected however I liked the way the accident turned out so I kept it.
 [Here's my Chicken Scratches experiment using Vera Molnar's method](/my-blog/Code-Experiments/chicken_scratch_2024_05_07_10_31_57/index.html)
+<img src="/my-blog/Images/" width ="200">
