@@ -33,4 +33,4 @@ I have once again made another experiment using the tiles method like Vera Molna
 
 [Here is the ellipsoid Tiles work inspired by Vera Molnar](/my-blog/Code-Experiments/ellipsoids-Tile/index.html)
 
-<img src="/my-blog/Images/ellipsoid-tiles.png" width="200" text-align="center">
+<img src="/my-blog/Images/ellipsoid tiles.png" width="200" text-align="center">
