@@ -26,3 +26,9 @@ I have since looked at the code and I know why the triangles did not turn out as
 [Here's my Chicken Scratches experiment using Vera Molnar's method](/my-blog/Code-Experiments/chicken_scratch_2024_05_07_10_31_57/index.html)
 
 <img src="/my-blog/Images/Chicken scratch test.png" width ="200" text-align="center">
+
+## Ellipsoid Tiles
+
+I have once again made another experiment using the tiles method like Vera Molnar. I created this using a bit of my own research into P5. I went onto the website and looked up how ellipsoids and 3d shapes worked. They require you to have `WEBGL` in the canvas set up and then it works the way a normal ellipse would work.
+
+[Here is the ellipsoid Tiles work inspired by Vera Molnar](
