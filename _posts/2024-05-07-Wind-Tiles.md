@@ -10,4 +10,7 @@ This code started out as us testing Vera Molnar's work. This is using "tiles" ac
   let r2=noise(across/2, down*3, frameCount)
 ```
 this for example was not always like that. This line can change the noise which determines where the circles go on their path. 
+
 [Here's my final experiment using Vera Molnar's method](/my-blog/Code-Experiments/Wind-tiles/index.html)
+
+<img src="/my-blog/Images/Wind-test.png" width="200px">
