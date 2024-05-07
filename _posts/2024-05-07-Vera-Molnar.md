@@ -31,4 +31,6 @@ I have since looked at the code and I know why the triangles did not turn out as
 
 I have once again made another experiment using the tiles method like Vera Molnar. I created this using a bit of my own research into P5. I went onto the website and looked up how ellipsoids and 3d shapes worked. They require you to have `WEBGL` in the canvas set up and then it works the way a normal ellipse would work.
 
-[Here is the ellipsoid Tiles work inspired by Vera Molnar](
+[Here is the ellipsoid Tiles work inspired by Vera Molnar](/my-blog/Code-Experiments/ellipsoids-Tile/index.hmtl)
+
+<img src="/my-blog/Images/ellipsoid-tiles.png" width="200" text-align="center">
