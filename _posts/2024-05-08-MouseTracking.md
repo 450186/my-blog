@@ -15,3 +15,5 @@ vert in the array and create a new one at the Mouse's position.
   }
 ```
 [Here's my experiment with mouse tracking](/my-blog/Code-Experiments/vertices-tail/index.html)
+
+It is also very customisable very easily, you can change how big the line is by edditing the `maxVerts` value.
