@@ -25,7 +25,7 @@ We use the inbuilt `mousePressed` function to check if the mouse is pressed over
 
 [Here's my blob experiment made using Javascript Classes](/my-blog/Code-Experiments/Blobs/index.html)
 
-<img src="/my-blog/Images/Blobs.png" width ="200">
+<img src="/my-blog/Images/blobs.png" width ="200">
 
 ## Ellipsoids
 
