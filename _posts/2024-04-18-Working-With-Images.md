@@ -25,6 +25,6 @@ control where the rectangle from the mouse. We made the jellyfish image get bigg
 
 I have reused code from the [tracker project](/my-blog/_posts/2024-03-14-Trackers.md) and the first experiment where there was a line that changed direction. I have basically made it so that the code instead of having a line, it has an image of a rocket on a black background and its as if the rocket has lost control and is flying through space. I have made it so that the image also changes direction using the functions `push`, `rotate`, `translate` and `pop`. `push` and `pop` are used when changing something temporarily when you still want it to keep its original state. `push` is used to save it, `pop` is used to restore it. These are commonly used with `rotate` and `translate`. `translate` is used to move the origin to the rocket's current position and `rotate` is used to of course rotate the image. It rotates by the `direction` variable. 
 
-[Heres the rocket experiment](my-blog/Code-Experiments/Rocket/index.html)
+[Heres the rocket experiment](/my-blog/Code-Experiments/Rocket/index.html)
 
 <img src="/my-blog/Images/rocket-experiment.png" width="200">
