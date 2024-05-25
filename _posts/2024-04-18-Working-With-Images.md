@@ -27,4 +27,4 @@ I have reused code from the [tracker project](/my-blog/_posts/2024-03-14-Tracker
 
 [Heres the rocket experiment](my-blog/Code-Experiments/Rocket/index.html)
 
-<img src="/my-blog/Images/rocket-experiment.png width="200">
+<img src="/my-blog/Images/rocket-experiment.png" width="200">
