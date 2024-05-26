@@ -58,4 +58,6 @@ To make it a bit more advanced than just a slideshow, I also made it so that if 
   ```
 the `nextImage` function is incredibly simple. it takes the number of images using the `numimgs` variable which is set to 8 and uses the modulus operator to the `currentimg + 1` which would grab the next image.
 
-[Here is the slideshow of planets]("/my-blog/Code-Experiments/
+[Here is the slideshow of planets]("/my-blog/Code-Experiments/Planet-Slideshow/index.html")
+
+<img src="/my-blog/Images/Slideshow-Screenshot.png" width="200">
