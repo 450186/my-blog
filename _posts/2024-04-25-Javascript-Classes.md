@@ -52,7 +52,7 @@ also havea lifespan, `this.lifeSpan = 200;` means that the lifespan of a particl
 if (fireworks[i].particles.length === 0) {
       fireworks.splice(i, 1);
     }
-```.
+```
 When we did it in class, I changed the code to make it more colourful by randomising the colours of the particles, similar to a firework.
 
 I wanted to make it look more like a firework. Some fireworks have multiple explosions and I wanted to recreate that; hence why I added another function called `createBurst`. 
